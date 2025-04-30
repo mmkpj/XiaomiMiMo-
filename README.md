@@ -1,2 +1,3 @@
 # XiaomiMiMo-
-XiaomiMiMo 中英双语
+
+作者是个蠢蛋看不懂英文
